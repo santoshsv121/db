@@ -12,7 +12,7 @@ Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azur
   </tr>
   <tr>
     <td>
-		<img src="https://dev.azure.com/joseignaciodurand/WebAppWithDatabaseDemo/_apis/build/status/WebAppWithDatabase-CI-mutiphase?branchName=master"/>
+		<img src="[![Build Status](https://dev.azure.com/joseignaciodurand/DotNET-Core-Mvc-App/_apis/build/status/DotNET-Core-Mvc-App-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/joseignaciodurand/DotNET-Core-Mvc-App/_build/latest?definitionId=6&branchName=master)"/>
     </td>
     <td>
 		<img src="https://dev.azure.com/joseignaciodurand/_apis/public/Release/badge/7ac88337-9f15-48dd-ab33-a60c7a26e4a5/4/6"/>
