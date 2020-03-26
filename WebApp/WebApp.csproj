@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>ea7006bc-a642-4b1a-8740-6df241dbe8cd</UserSecretsId>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+	<PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
   </PropertyGroup>
 
   <ItemGroup>
