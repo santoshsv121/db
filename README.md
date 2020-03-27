@@ -5,23 +5,15 @@ Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azur
 
 <table>
   <tr>
-    <td>Build status</td>
-    <td>Release status - dev</td> 
-    <td>Release status - test</td>  
+    <td>Build status</td>  
     <td>Release status - prod</td>
   </tr>
   <tr>
     <td>
-		<img src="https://dev.azure.com/joseignaciodurand/DotNET-Core-Mvc-App/_apis/build/status/DotNET-Core-Mvc-App-ASP.NET%20Core-CI?branchName=master"/>
+	<img src="https://dev.azure.com/joseignaciodurand/DotNET-Core-Mvc-App/_apis/build/status/DotNET-Core-Mvc-App-ASP.NET%20Core-CI?branchName=master"/>
     </td>
     <td>
-		<img src="https://dev.azure.com/joseignaciodurand/_apis/public/Release/badge/7ac88337-9f15-48dd-ab33-a60c7a26e4a5/4/6"/>
-	</td>
-    <td>
-		<img src="https://dev.azure.com/joseignaciodurand/_apis/public/Release/badge/7ac88337-9f15-48dd-ab33-a60c7a26e4a5/4/9"/>
-    </td>
-    <td>
-		<img src="https://dev.azure.com/joseignaciodurand/_apis/public/Release/badge/7ac88337-9f15-48dd-ab33-a60c7a26e4a5/4/10"/>
+	<img src="https://vsrm.dev.azure.com/joseignaciodurand/_apis/public/Release/badge/6e25244f-952a-4b92-b7af-72bef16540c8/1/1"/>
   </td>
   </tr>
  </table>
